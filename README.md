@@ -30,4 +30,4 @@ trading_bot/
 └── trading_bot.log        # Log file (generated after running)
 
 ## Author
-Yash Nibe
+Yash
