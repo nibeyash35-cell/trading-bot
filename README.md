@@ -28,3 +28,6 @@ trading_bot/
 ├── README.md              # Project documentation
 ├── .gitignore             # Ignore sensitive files
 └── trading_bot.log        # Log file (generated after running)
+
+## Author
+Yash Nibe
