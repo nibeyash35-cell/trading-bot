@@ -20,6 +20,8 @@ trading_bot/
 │   ├── validators.py      # Input validation
 │   └── logging_config.py  # Logging setup
 │
+|
+|
 ├── cli.py                 # Main entry point (user interaction)
 ├── requirements.txt       # Dependencies
 ├── README.md              # Project documentation
