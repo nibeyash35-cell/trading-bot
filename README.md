@@ -11,6 +11,7 @@ This is a simple Python-based trading bot that places MARKET and LIMIT orders on
 - Error handling and validation
 
 ## Project Structure
+
 trading_bot/
 │
 ├── bot/
