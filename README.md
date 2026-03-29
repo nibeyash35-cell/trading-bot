@@ -16,7 +16,7 @@ This is a simple Python-based trading bot that places MARKET and LIMIT orders on
 trading_bot/
 │
 ├── bot/
-│   ├── client.py     # Handles Binance API connection
+│   ├── client.py          # Handles Binance API connection
 │   ├── orders.py          # Order placement logic
 │   ├── validators.py      # Input validation
 │   └── logging_config.py  # Logging setup
