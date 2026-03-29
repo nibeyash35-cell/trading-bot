@@ -12,9 +12,11 @@ This is a simple Python-based trading bot that places MARKET and LIMIT orders on
 
 ## Project Structure
 
+```
 trading_bot/
 │
 ├── bot/
+│
 |
 │   ├── client.py     # Handles Binance API connection
 │   ├── orders.py          # Order placement logic
